@@ -1,0 +1,17 @@
+{
+  "name": "verificateur-preuves-frisk",
+  "version": "1.0.0",
+  "description": "Vérificateur indépendant des preuves signées des versions du document unique produites par Frisk Plateforme",
+  "type": "module",
+  "private": true,
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "vitest": "5.0.3"
+  },
+  "license": "MIT"
+}

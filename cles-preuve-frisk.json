@@ -1,0 +1,13 @@
+{
+  "format": "frisk-cles-preuve-1",
+  "cles": [
+    {
+      "identifiant": "frisk-preuve-ed25519-v1",
+      "algorithme": "ed25519",
+      "cle_publique": "807bd51e1b8fc81b5213013d5e2b7257cd85eb96b34788b5d0b3b083836be802",
+      "debut": "2026-11-24T21:59:39.479000Z",
+      "fin": null,
+      "revocation": null
+    }
+  ]
+}
